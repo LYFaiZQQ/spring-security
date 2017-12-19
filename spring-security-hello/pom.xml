@@ -17,6 +17,7 @@
 
         <dependencies>
 
+            <!--统一制定依赖 jar 的版本-->
             <dependency>
                 <groupId>io.spring.platform</groupId>
                 <artifactId>platform-bom</artifactId>
